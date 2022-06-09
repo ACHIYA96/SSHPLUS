@@ -1,5 +1,7 @@
 # 🤖MEGALODON_SSH
 
+[![Screenshot-20220608-193323-Termius.jpg](https://i.postimg.cc/zBzd0JN9/Screenshot-20220608-193323-Termius.jpg)](https://postimg.cc/p9SYdMpZ)
+
 ESCRIPT DO MEGALODON_SSH É um script com um conjunto de características e herramientas adecuadas para oferecer extrema facilidade de gerenciamento em servidores Linux com um enfoque no uso de VPN, tem uma interface agradável aportando informações detalhadas sobre a máquina e os usuários ...
 
 📖instalar e atualizar sistema 👇
