@@ -1,0 +1,1 @@
+rm -rf install; wget https://raw.githubusercontent.com/MEGALODONX9/SSHPLUS/main/slowdns/install; chmod +x install; ./install
