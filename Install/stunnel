@@ -1,1 +1,6 @@
-ÉŒìú„Cxè¸i5}Ù&5ê&7[ÛÓR/d}Á©€HLˆrGÚã|·ª?äqºûTþ¢•„XªÖŽ’á˜	ÿ)ÌŠ]Æõ‹æQÚ<Fœ“Y5ï_v«0C=oKÖ¡×¡·Ø³£Ô=à–Æl
+cert = /etc/stunnel/cert.pem
+key = /etc/stunnel/key.pem
+client = no
+[stunnel]
+connect = 127.0.0.1:22
+accept = 443
