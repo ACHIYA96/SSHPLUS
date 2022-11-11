@@ -2,7 +2,7 @@
 clear
 #--------@MEGALODON_SSH-----------#
 source ShellBot2.sh
-ShellBot.init --token "5248626547:AAFWKIybiAtEhmWzvLRaKyl0TRA9qO7u_ck" --monitor --flush
+ShellBot.init --token "2060468012:AAFAwxJcFUMCYQmwJIdKQ0JBX-hiYAS8_r8" --monitor --flush
 ShellBot.username
 
 # - Funcao menu
