@@ -1,8 +1,14 @@
 #!/bin/bash
 clear
 #--------@MEGALODON_SSH-----------#
-source ShellBot2.sh
-ShellBot.init --token "2060468012:AAFAwxJcFUMCYQmwJIdKQ0JBX-hiYAS8_r8" --monitor --flush
+source ShellBot.sh
+touch lista
+[[ -z $1 ]] && {
+    clear && echo "INFORME O TOKEN" && return 0
+}
+[[ ! -e RESET ]] && touch RESET
+api_bot=$1
+ShellBot.init --token "$api_bot" --monitor --flush
 ShellBot.username
 
 # - Funcao menu
