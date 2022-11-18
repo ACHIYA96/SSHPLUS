@@ -17,7 +17,7 @@
 			bash <(curl -sL https://raw.githubusercontent.com/MEGALODON-SSH/CheckUser/main/install.sh)
 			;;
 			2 | 02)
-            initcheck
+            instcheck.sh
             ;;
 			0 | 00)
 			clear
