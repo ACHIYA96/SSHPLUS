@@ -18,7 +18,7 @@
 			bash <(curl -sL https://raw.githubusercontent.com/TH30R10N/CheckUser/master/install.sh)
 			;;
 			2 | 02)
-            initcheck
+            instcheck.sh
             ;;
             3 | 03)
             initcheck
